@@ -1,0 +1,18 @@
+
+Instalacao do tailwindcss
+npm i tailwindcss postcss autoprefixer -D 
+
+criacao do arquivo de config tailwind.config.js
+npx tailwindcss init -p   
+
+dentro de tailwind.config.js
+module.exports = {
+  content: [
+    './src/**/*.tsx' - informa q todo arquivo com essa extensao vai usar o tailwindcss
+  ],
+
+Apollo serve para trabalhar as requisicoes vindas do graphql
+  npm i @apollo/client graphql
+
+
+  
