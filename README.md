@@ -3,7 +3,7 @@
 Sign-in news letter page
 
 <div align="center"> 
-  ![alt text](https://github.com/CristianoLagesf/news-letter-page/blob/[branch]/image.jpg?raw=true)
+  ![alt text](https://github.com/CristianoLagesf/news-letter-page/blob/main/Screen Shot 2022-11-20 at 04.28.12.png?raw=true)
 </div>
 
 ## Description
