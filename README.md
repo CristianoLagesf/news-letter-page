@@ -3,7 +3,7 @@
 Sign-in news letter page
 
 <div align="center"> 
-  <img src="https://drive.google.com/file/d/12e6-L6ovlCMTaMY7J4b58OAorOy85QwJ/view?usp=share_link" alt="screenshot" />
+  ![alt text](https://github.com/CristianoLagesf/news-letter-page/blob/[branch]/image.jpg?raw=true)
 </div>
 
 ## Description
